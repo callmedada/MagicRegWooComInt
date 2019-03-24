@@ -7,7 +7,7 @@
 Plugin Name: WooCommerce RegMagic Integration
 Description: Build for gledon camp
 Author: Dennis Zheng
-Version: 1.0
+Version: 0.1
 Author URI: https://callmedada.com
 Text Domain: glendon-camp-wooreg
 */
